@@ -1,0 +1,7 @@
+[project]
+name = "geometric-feature-extractor"
+version = "0.1.0"
+description = "Extract geometric features from binary masks"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
